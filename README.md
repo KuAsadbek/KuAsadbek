@@ -135,7 +135,7 @@ languages:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KuAsadbek&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KuAsadbek&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&hide_border=false&count_private=true&rank_icon=github" alt="GitHub Stats"/>
   &nbsp;
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuAsadbek&layout=compact&bg_color=0d1117&border_color=30363d&title_color=00d4ff&text_color=c9d1d9&hide_border=false&langs_count=10" alt="Top Languages"/>
 </div>
@@ -150,7 +150,7 @@ languages:
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KuAsadbek&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=KuAsadbek&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </div>
 
 <br/>
